@@ -1,0 +1,6 @@
+*.pyc
+_pycache_
+.vscode
+.idea
+db.sqlite3
+env
